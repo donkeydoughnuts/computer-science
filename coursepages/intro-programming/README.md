@@ -1,4 +1,4 @@
-# Introduction to Programming
+# Introduction to Programming √
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. These courses are self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
